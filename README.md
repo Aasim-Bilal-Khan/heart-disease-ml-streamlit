@@ -1,1 +1,1 @@
-# Heart-Diseases-prediction---Decision-Tree
+# Heart-Diseases-prediction---Random Forest
